@@ -1,0 +1,955 @@
+[
+    {
+        "Question": "Which of the following is NOT a NASA mission?",
+        "Choices": [
+            "ACE",
+            "Gemini",
+            "PROTON",
+            "Apollo",
+            "SOFIA"
+        ],
+        "Reference": "",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "The sun unleashed at least eight solar flares on Wednesday (Dec. 14, 2022), & more were expected after a crackling sunspot emerged on the star's face. Which is the most powerful class of solar flare?",
+        "Choices": [
+            "A-class",
+            "C-class",
+            "M-class",
+            "B-class",
+            "X-class"
+        ],
+        "Reference": "https://www.space.com/sun-solar-flare-most-powerful-since-2017-february-23-2024 ",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "NASA's Ingenuity helicopter now has dozens of Mars flights under its belt. Ingenuity and the Perseverance rover were exploring which Martian landmark in December 2022?",
+        "Choices": [
+            "Jezero Crater",
+            "Olympus Mons",
+            "Valles Marineris",
+            "Medusae Fossae",
+            "Teppe Costa"
+        ],
+        "Reference": "https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface ",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "A rocky meteoroid that exploded over Canada in 2021 is believed to have originated from the spherical shell of icy bodies surrounding our solar system. What is the name of this cloud of predominately icy objects?",
+        "Choices": [
+            "Crystal cloud",
+            "Asteroid Belt",
+            "Kuiper Belt",
+            "Oort Cloud",
+            "Scattered Disc"
+        ],
+        "Reference": "Scientists trace fireball to strange rocky meteoroid from the Oort Cloud | Space",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "Two NASA helicopters searched the surface of Mars in 2022.  The Ingenuity copter was damaged and was later found by the other copter which was named what?",
+        "Choices": [
+            "Penetra-tor",
+            "Newtoni-copter",
+            "Persever-arnce",
+            "Roto-rooter",
+            "Martian Rover"
+        ],
+        "Reference": "https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface ",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "In 2022, NASA announced that its InSight Mars rover may have reached the end of its operations. InSight was sent to the Red Planet to study what?",
+        "Choices": [
+            "Martian weather",
+            "Martian back-ground radiation",
+            "Martian atmos-pheric composi-tion",
+            "Martian water sources",
+            "Mars-quakes & Martian seismol-ogy"
+        ],
+        "Reference": "https://www.space.com/mars-insight-lander-possible-final-photo ",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "Space quiz! A rocky meteoroid that exploded over Canada in 2021 is believed to have originated from the spherical shell of icy bodies surrounding our solar system. What is the name of this cloud of predominately icy objects?",
+        "Choices": [
+            "Asteroid Belt",
+            "Kuiper Belt",
+            "Garter Belt",
+            "Scattered Disk",
+            "Oort Cloud"
+        ],
+        "Reference": "Oort",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "The second mission of Europe's new Vega C rocket failed, losing two satellites. The Vega C rocket is named after the star Vega, the brightest star in which constellation?",
+        "Choices": [
+            "Ursa Minor",
+            "Cygnus",
+            "Lyra",
+            "Pegasus",
+            "The Big Dipper"
+        ],
+        "Reference": "Lyra",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "The James Webb Space Telescope studied seven intriguing exoplanets orbiting the star TRAPPIST-1. What type of star is TRAPPIST-1?",
+        "Choices": [
+            "Red Dwarf",
+            "Yellow Super-giant",
+            "White Dwarf",
+            "Brown Dwarf",
+            "Dopey"
+        ],
+        "Reference": "Red Dwarf",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "A sundog is a concentrated patch of sunlight that is occasionally seen to the right or the left of the sun or even on both sides. What is another name for these atmospheric optical illusions?",
+        "Choices": [
+            "False Sunrise",
+            "Parheli-on",
+            "Antheli-on",
+            "Helio-pause",
+            "False Sunset"
+        ],
+        "Reference": "Parhelion  https://www.space.com/sundogs-definition-formation-science",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "Europe's JUICE probe swung by the moon for a \"gravity assist\" on Monday (Aug. 19, 2024) en route to study what?",
+        "Choices": [
+            "Jet-streams in Uranus Epi- sphere",
+            "Jekyl-Udvar Ice Crystal Energy",
+            "Januvian Ionic Cosmic  Energy",
+            "Jupiter and some of its moons",
+            "Icy Jet-streams in the Universe "
+        ],
+        "Reference": "Jupiter and 3 of its icy moons; Space.com 8-20-24 ",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "What NASA vehicle began its ascent of \"Witch Hazel Hill\" in 2024",
+        "Choices": [
+            "Curiosity Rover",
+            "Shuttle-Derived Heavy Lift Launch Vehicle",
+            "Persever-ance  Rover",
+            "Mercury Redstone Launch Vehicle",
+            "Pragyan Rover"
+        ],
+        "Reference": "Perseverance Mars Rover; www.space.com/mars-perserverance-rover-crater-rim-campaign",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "How big is the Crab Nebula",
+        "Choices": [
+            "500 million miles",
+            "1 billion miles",
+            "2 light years",
+            "11 light years",
+            "Infinitely large"
+        ],
+        "Reference": "\nHubbleSite\nhttps://hubblesite.org \u203a media \u203a images \u203a 3885-Image",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "The planet, Mercury, has an underground layer of what that is 10 miles thick?",
+        "Choices": [
+            "The element, mercury, Hg, enough for 3 billion thermo-meters",
+            "The element gold, Au, 24 carat",
+            "The element Iron, Fe, the mass of 2 million locomo-tives",
+            "The element lead, Pb, in molten form",
+            "The element, carbon, C, diamond"
+        ],
+        "Reference": "www.space.com \u203a mercury-diamond-layer-10-miles",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "Other than Earth, what is the only other body in the solar system to possess an atmosphere as well as liquid rivers, lakes and seas?",
+        "Choices": [
+            "Venus",
+            "Mars",
+            "Ceres",
+            "Titan",
+            "Uranus"
+        ],
+        "Reference": "Titan: Facts ",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "What two  possible sources keep Jupiter's moon, Europa, warm enough to support an underground liquid ocean?",
+        "Choices": [
+            "Volcanic interior",
+            "Solar Rays from the Sun",
+            "Tidal energy from Jupiter",
+            "Asteroid Dust Friction",
+            "Heat Lamps"
+        ],
+        "Reference": "Space.com (11-4-24)",
+        "Answers": [
+            1,
+            3
+        ]
+    },
+    {
+        "Question": "On Nov. 6, 2024, NASA's Parker Solar Probe completed its seventh swing past what planet?",
+        "Choices": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Uranus",
+            "Saturn"
+        ],
+        "Reference": "Space.com (11-6-24, 9:18 AM)",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "What country's crew returned to earth after six months in space on Nov. 3, 2024?",
+        "Choices": [
+            "Russia",
+            "Japan",
+            "Great Britain",
+            "China",
+            "North Korea"
+        ],
+        "Reference": "Space.com Nov 4, 2024, 9:24\u202fAM",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "What is the name for the mysterious force driving the acceleration of the universe's expansion?",
+        "Choices": [
+            "Dark Matter",
+            "Coronal Mass Ejections",
+            "Rogue Planets",
+            "Dark Energy",
+            "Electro-motive Force"
+        ],
+        "Reference": "https://www.space.com/dark-energy-black-hole-connection",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "What country launched an ICBM into space on Oct. 30, 2024 which set a record for altitude of 4,350 miles? ",
+        "Choices": [
+            "Russia",
+            "The USA",
+            "Great Britain",
+            "China",
+            "North Korea"
+        ],
+        "Reference": "Space.com Nov 2, 2024",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "For whom was the Artemis Program named?",
+        "Choices": [
+            "the Greek goddess of animals, hunting, & wilderness",
+            "Artemis Jennings, a 2000 Olympian track star",
+            "Artemis Watson, the first female NASA scientist",
+            "the Roman goddess of war, weaponry, & courage",
+            "The queen of Sparta who led the attack on Messenia"
+        ],
+        "Reference": "https://www.rocketstem.org/2022/11/08/artemis-is-lunar-goddess-turned-feminist-icon/",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "Which of the following is a goal of the Artemis Program?",
+        "Choices": [
+            "to study solar radiation on the moon",
+            "to enhance the role of men in space",
+            "to study  spectrum of stellar radiation on the moon ",
+            "to quantify electro-magnetic radiation on Venus",
+            "to justify Pluto's status as a planet"
+        ],
+        "Reference": "https://www.rocketstem.org/2022/11/08/artemis-is-lunar-goddess-turned-feminist-icon/",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "Female astronauts are currently less likely to be selected for missions than men because ",
+        "Choices": [
+            "women are more prone to become sick in space",
+            "they risk injury from the high level of g forces ",
+            "they are more subject to the stress of space",
+            "there are not as many qualified women as men",
+            "they reach maximum radiation sooner than men"
+        ],
+        "Reference": "https://www.rocketstem.org/2022/11/08/artemis-is-lunar-goddess-turned-feminist-icon/",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "In what year was the Artemis Program formally established?",
+        "Choices": [
+            "2011",
+            "2013",
+            "2015",
+            "2017",
+            "2019"
+        ],
+        "Reference": "2017 Google",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "Which of the following is a long term goal of the Artemis Prograrm?",
+        "Choices": [
+            "To plan for coloniz-ing Mars",
+            "To set up a perm-anent lunar base  ",
+            "The study of joint male & female travels ",
+            "To justify 10-year funding for Artemis",
+            "Explore cryo-sleep for long trips"
+        ],
+        "Reference": "Google--a permanent lunar base",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "Which astronauts were left on the International Space Station during 2024 for several months longer than planned?",
+        "Choices": [
+            "Reid Wiseman & Christina Koch",
+            "Michael Barrett & Nichole Ayers",
+            "Butch Wilmore & Sunita Williams",
+            "Marcos Berrios & Kayla Barron",
+            "Eric Boe  & Chris Birch"
+        ],
+        "Reference": "Google--Wilmore & Williams  e",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "What has caused delays with the Artemis II launch?",
+        "Choices": [
+            "Problems with fuel availabi-lity",
+            "Unsuit-able Lunar position",
+            "Unexpec-ted Solar Flare Activity",
+            "The need for extra training",
+            "Issues with testing mobile launcher"
+        ],
+        "Reference": "Google-- issues with testing the mobile launcher",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "What planet in our solar system has the highest density?",
+        "Choices": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Uranus"
+        ],
+        "Reference": "Google--Earth",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "What planet in our solar system has the lowest density?",
+        "Choices": [
+            "Venus",
+            "Earth",
+            "Mars",
+            "Saturn",
+            "Jupiter"
+        ],
+        "Reference": "Google--Saturn",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "What planet in our solar system has the most rings?",
+        "Choices": [
+            "Uranus",
+            "Saturn",
+            "Jupiter",
+            "Neptune",
+            "Mars "
+        ],
+        "Reference": "Google--Saturn",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "What is the largest planet in our solar system?",
+        "Choices": [
+            "Saturn",
+            "Neptune",
+            "Uranus",
+            "Venus",
+            "Jupiter"
+        ],
+        "Reference": "Google--Jupiter",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "Which planet in our solar system has the greatest mass?",
+        "Choices": [
+            "Neptune",
+            "Jupiter",
+            "Uranus",
+            "Saturn",
+            "Mercury"
+        ],
+        "Reference": "Google--Jupiter",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "How many planets are actually in our solar system?",
+        "Choices": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "Reference": "Google--8",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "Which planet in our solar system is farthest from the sun?",
+        "Choices": [
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Jupiter",
+            "Pluto"
+        ],
+        "Reference": "Google--Neptune",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "Pluto, which orbits the sun, is now classified as ",
+        "Choices": [
+            "a dwarf planet",
+            "a planet",
+            "a mini-planet",
+            "an asteroid",
+            "a dog owned by Mickey Mouse"
+        ],
+        "Reference": "Google--a dwarf planet",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "How far from Earth is the nearest planet like Earth?",
+        "Choices": [
+            "154 thousand miles",
+            "154 million miles",
+            "1.1 billion miles",
+            "1.1 light-years151 ",
+            "4.2 light-years"
+        ],
+        "Reference": "Google--4.2 light-years",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "How many miles are there in a light-year?",
+        "Choices": [
+            "590 thousand miles",
+            "590 million miles",
+            "590 billion miles",
+            "5.9 trillion miles",
+            "0.59 quad-rillion miles"
+        ],
+        "Reference": "G+J41:J48oogle--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "NASA is an acronym for National what?",
+        "Choices": [
+            "Aircraft & Space Achieve-ment ",
+            "Aeronaut-ics & Space Adminis-tration",
+            "Advance-ment of Spacial Aggres-sion",
+            "Advance-ment of Superior Altitude",
+            "Altitude & Speed Achieve-ment"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "A comet is made up of:",
+        "Choices": [
+            "Ice, dust, frozen gas, & rock",
+            "carbon, microbes burning helium, & sand",
+            "nuclear radiation & organic media",
+            "molten crystals &  nuclear particles",
+            "micro-scopic pieces of the sun"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "When one heavenly body continuously circles around another, it is said to be",
+        "Choices": [
+            "rotating",
+            "nutating",
+            "in an orbit",
+            "preces-sing",
+            "in a spiral"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "Outside of the Earth's atmosphere, what is the speed of light in miles per second?",
+        "Choices": [
+            "186,000 miles/sec",
+            "18,600 miles/sec",
+            "1,860 miles/sec",
+            "186 miles/sec",
+            "18.6 miles/sec"
+        ],
+        "Reference": "Google",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "A pound is a unit of weight or force.  A light year is a unit of:",
+        "Choices": [
+            "Time",
+            "Distance",
+            "Light intensity",
+            "Light frequency",
+            "Light Speed"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "About how long does it take the light reflected from the moon to reach the earth?",
+        "Choices": [
+            "13 minutes",
+            "1.3 minutes",
+            "10.3 seconds",
+            "1.3 seconds",
+            "0.13 seconds"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "Approximately, what is the average distance from the moon to the earth?",
+        "Choices": [
+            "38,900 miles",
+            "138,900 miles",
+            "238,900 miles",
+            "338,900 miles",
+            "438,900 miles"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "Approximately, what is the average distance from the sun to the earth?",
+        "Choices": [
+            "13 million miles",
+            "33 million miles",
+            "53 million miles",
+            "73 million miles",
+            "93 million miles"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "About how long does it take the light from the sun to reach the earth?",
+        "Choices": [
+            "8.3 minutes",
+            "6.3 minutes",
+            "4.3 minutes",
+            "2.3 minutes",
+            "1.3 minutes"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "What force keeps the moon revolving around the Earth?",
+        "Choices": [
+            "Electro-motive force",
+            "Gravita-tional force",
+            "Magnetic forrce ",
+            "Nuclear force",
+            "Star Wars force"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Mercury have?",
+        "Choices": [
+            "1",
+            "0",
+            "3",
+            "2",
+            "4"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Venus have?",
+        "Choices": [
+            "3",
+            "4",
+            "1",
+            "0",
+            "5"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Earth have?",
+        "Choices": [
+            "0",
+            "2",
+            "1",
+            "4",
+            "3"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Mars have?",
+        "Choices": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Jupiter  have?",
+        "Choices": [
+            "12",
+            "35",
+            "55",
+            "75",
+            "95"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Saturn have?",
+        "Choices": [
+            "0",
+            "45",
+            "75",
+            "102",
+            "146"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Uranus have?",
+        "Choices": [
+            "38",
+            "28",
+            "18",
+            "8",
+            "0"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "How many moons does the planet Neptune have?",
+        "Choices": [
+            "2",
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "ROYGBIV represents colors of light.  What color does the \"I\" represent?",
+        "Choices": [
+            "India green",
+            "Imperial",
+            "Ivory",
+            "Indigo",
+            "Ice blue"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "Our sun produces \"white light,\" which contains all of the colors rerpresented by ROYGBIV.  What glass device can be used to separate all of these colors so that we can seem them? ",
+        "Choices": [
+            "a prism",
+            "a lens",
+            "a mirror",
+            "a window",
+            "a light bulb"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "Light travels in waves.  Each color has its own average wavelength.  Which color has the shortest wavelength?",
+        "Choices": [
+            "red   ",
+            "yellow  ",
+            "green",
+            "blue",
+            "violet"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            4
+        ]
+    },
+    {
+        "Question": "Our sun produces \"white light,\" which contains all of the colors rerpresented by ROYGBIV.  What is the name for this range of colors? ",
+        "Choices": [
+            "rainbow",
+            "chroma-tic scale",
+            "light scale",
+            "spectrum",
+            "spectacle"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "A device sometimes used by NASA operates on the principle of light amplification by the stimulate emission of radiation.  What is this device commonly called?",
+        "Choices": [
+            "a light amplifier",
+            "a radiation detector",
+            "a laser",
+            "an emission stimulus",
+            "a radiation amplifier"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "What chemicals make up 98% of the sun?",
+        "Choices": [
+            "hydrogen and helium",
+            "carbon and neon",
+            "oxygen and carbon",
+            "plutonim and uranium",
+            "krypton and radon"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            0
+        ]
+    },
+    {
+        "Question": "What is the name given to a thing in the universe with gravity  so strong that nothing can get out of it, not even light. ",
+        "Choices": [
+            "magna gravity",
+            "black hole",
+            "super star",
+            "super nova",
+            "light trap"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "The Earth is bombarded by \"charged particles.\"   What is the barrier that protects us from these charged particles?",
+        "Choices": [
+            "rotation of the Earth on its axis ",
+            "the Earth's gravity field",
+            "the Earth's electric field",
+            "the Earth's magnetic field",
+            "the Earth's football fields"
+        ],
+        "Reference": "Space:  Neptune and Uranus have a magnetic mystery ",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "Which is the circumpolar star or \"North Star\" to which the Earth's axis approximately points?",
+        "Choices": [
+            "Rigel Kentaur-us",
+            "Canopus",
+            "Polaris",
+            "Sirius",
+            "Arcturus"
+        ],
+        "Reference": "Google--",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "What is the cause of the change in the frequency of a wave in relation to an observer who is moving relative to the source of the wave.  It applies to both sound & light.  ",
+        "Choices": [
+            "Newton's first law",
+            "Newton's second law",
+            "Newton's third law",
+            "The Doppler Effect",
+            "Reso-nance Effect"
+        ],
+        "Reference": "",
+        "Answers": [
+            3
+        ]
+    },
+    {
+        "Question": "According to Lorentz Equations, what happens if you leave Earth, travel in space at 99.9% of the speed of light for 65 days and returned to earth?",
+        "Choices": [
+            "Your spaceship would have crashed",
+            "You and your spaceshipwould have exploded ",
+            "Four years would have passed on Earth",
+            "Your spaceship would have changed colors ",
+            "Your looks would have changed severely"
+        ],
+        "Reference": "",
+        "Answers": [
+            2
+        ]
+    },
+    {
+        "Question": "Light can be described as waves or as particles.  What are the particles of light called?  ",
+        "Choices": [
+            "Protons",
+            "Photons",
+            "Neutrons",
+            "Electrons",
+            "Quarks"
+        ],
+        "Reference": "",
+        "Answers": [
+            1
+        ]
+    },
+    {
+        "Question": "Many types of waves are electromagnetic radiation.  Which of the following waves are NOT electromagnetic waves?",
+        "Choices": [
+            "Sound waves",
+            "Light waves",
+            "Infrared waves",
+            "Ultra-violet waves",
+            "Radio and TV waves"
+        ],
+        "Reference": "",
+        "Answers": [
+            0
+        ]
+    }
+]
