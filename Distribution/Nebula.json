@@ -1428,10 +1428,10 @@
     {
         "Question": "NASA intends to deorbit the International Space Station and crash it into the ocean by 2030. Why did they make this decision?",
         "Choices": [
-            "Congress refuses to continue to appropriate billions of taxpayer dollars annually to the program.",
-            "The ISS cannot safely operate indefinitely because it is over 25 years old and the technical lifetime of the station is limited by its primary structure.",
+            "Recent protests have fueled public outcry over Congress continuing to appropriate billions of taxpayer dollars annually to the program, and as a direct result of this, Congress has ordered NASA to reduce costs by 10% by 2031.",
+            "NASA is decommissioning the ISS due to its aging infrastructure, high maintenance costs, and the desire to shift funding to commercial space stations and future missions like the Lunar Gateway.",
             "Increased nuclear threats from foreign nations are approaching the point that they pose an unacceptable risk to the American residents onboard the station.",
-            "Accumulating satellite debris around Earth will make it infeasible to safely return astronauts back home after 2034.",
+            "Accumulating satellite debris around Earth will make it impossible to safely return astronauts back home after 2034.",
             "Mission Control is overworked and the agency cannot justify their long hours, hoping that removing the ISS will make their jobs easier."
         ],
         "Reference": "https://www.nasa.gov/faqs-the-international-space-station-transition-plan/",
